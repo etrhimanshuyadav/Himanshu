@@ -105,13 +105,13 @@ export default function Portfolio() {
             </a>
           </Button>
           <Button variant="outline" asChild whileHover={{ scale: 1.1 }}>
-            <a href="mailto:himanshuyadavofficial@gmail.com">
+            <a href="mailto:himanshu03may2003@gmail.com">
               <Mail className="mr-2 h-4 w-4" /> Email
             </a>
           </Button>
           <Button variant="outline" asChild whileHover={{ scale: 1.1 }}>
             <a
-              href="https://instagram.com/etrhimanshuyadav"
+              href="https://www.instagram.com/etr_himanshu_yadav"
               target="_blank"
               rel="noopener noreferrer"
             >
